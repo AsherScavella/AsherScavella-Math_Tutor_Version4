@@ -1,0 +1,3 @@
+C:/Users/Asher Scavella/CLionProjects/AsherScavella-Math_Tutor_Version4/cmake-build-debug/CMakeFiles/AsherScavella_Math_Tutor_Version4.dir
+C:/Users/Asher Scavella/CLionProjects/AsherScavella-Math_Tutor_Version4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asher Scavella/CLionProjects/AsherScavella-Math_Tutor_Version4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
